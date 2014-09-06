@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jcommon-1.0.8-junit.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jcommon-xml-1.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jfreechart-1.0.14-demo.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jfreechart-1.0.14-experimental.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-astro.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-beans.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-bio.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-core.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-instr.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-mathmlimpl.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-sci.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-wavelet.jar"/>
+	<classpathentry kind="lib" path="/Users/siddharthreddy/Downloads/Black Scholes/jsci-xtra.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
